@@ -14,21 +14,31 @@ He is now seeking remote opportunities in IT and cybersecurity, where he can app
 
 **Core Competencies**
 
--a. Cyber defense and incident response
--b. Vulnerability scanning, penetration testing, and risk analysis
--c. Network configuration and troubleshooting (LAN, WAN, TCP/IP)
--d. Windows and Linux system administration
--e. Security tools proficiency: Wireshark, Nmap, and firewalls
--f. Team collaboration, communication, and adaptability
+a. Cyber defense and incident response
+
+b. Vulnerability scanning, penetration testing, and risk analysis
+
+c. Network configuration and troubleshooting (LAN, WAN, TCP/IP)
+
+d. Windows and Linux system administration
+
+e. Security tools proficiency: Wireshark, Nmap, and firewalls
+
+f. Team collaboration, communication, and adaptability
 
 **Professional Experience**
 
 Cyber Security Specialist – Nigerian Air Force | Lagos, Nigeria
 Oct 2024 – Present
+
 a. Monitors and analyzes network traffic to detect and respond to security incidents.
+
 b. Conducts vulnerability assessments and implements measures to close security gaps.
+
 c. Designs and enforces protocols to strengthen system defenses.
+
 d. Provides training and awareness programs to enhance cybersecurity culture across teams.
+
 e. Works alongside IT divisions to optimize performance and improve network resilience.
 
 **Education**
@@ -39,7 +49,9 @@ Nigerian Defence Academy, 2024
 **Certifications**
 
 a. Cisco Networking Academy – IT Essentials
+
 b. Cisco Networking Academy – Cybersecurity
+
 c. Cisco Networking Academy – Networking
 
 **Hobbies & Interests**
