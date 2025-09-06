@@ -14,12 +14,12 @@ He is now seeking remote opportunities in IT and cybersecurity, where he can app
 
 **Core Competencies**
 
-a. Cyber defense and incident response
-b. Vulnerability scanning, penetration testing, and risk analysis
-c. Network configuration and troubleshooting (LAN, WAN, TCP/IP)
-d. Windows and Linux system administration
-e. Security tools proficiency: Wireshark, Nmap, and firewalls
-f. Team collaboration, communication, and adaptability
+-a. Cyber defense and incident response
+-b. Vulnerability scanning, penetration testing, and risk analysis
+-c. Network configuration and troubleshooting (LAN, WAN, TCP/IP)
+-d. Windows and Linux system administration
+-e. Security tools proficiency: Wireshark, Nmap, and firewalls
+-f. Team collaboration, communication, and adaptability
 
 **Professional Experience**
 
