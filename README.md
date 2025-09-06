@@ -1,30 +1,27 @@
 
-# Hi, I'm Muhammed 👋  
+Hi, I'm Muhammed 👋  
 
-🚀 **Cybersecurity Specialist | Nigerian Air Force | B.Sc. Computer Science**  
+Cybersecurity Specialist | Nigerian Air Force | B.Sc. Computer Science  
 
 I’m passionate about cybersecurity, networking, and IT support. With a strong foundation from the **Nigerian Defence Academy** and certifications from the **Cisco Networking Academy**, I aim to help organizations build secure and reliable systems — remotely or onsite.  
 
----
 
-## 🛠️ Skills
+Skills
 - **Cybersecurity**: Threat detection, vulnerability assessment, incident response  
 - **Networking**: LAN/WAN, TCP/IP, routing, and switching  
 - **Operating Systems**: Windows & Linux administration  
 - **Network Security Tools**: Wireshark, firewalls, IDS/IPS, packet analysis  
 - **IT Support**: Troubleshooting hardware, software, and network issues  
 
----
 
-## 🎓 Education & Certifications
+🎓 Education & Certifications
 🎓 **B.Sc. Computer Science** – Nigerian Defence Academy (2024)  
 🏅 Cisco Networking Academy – IT Essentials  
 🏅 Cisco Networking Academy – Cybersecurity  
 🏅 Cisco Networking Academy – Networking  
 
----
 
-## 📂 Projects
+📂 Projects
 🔐 [Cybersecurity Lab](#) – Penetration testing reports, log analysis, IDS rules  
 🌐 [Networking Lab](#) – Cisco Packet Tracer LAN/WAN simulations  
 ⚙️ [Automation Scripts](#) – Python/PowerShell tools for IT support  
