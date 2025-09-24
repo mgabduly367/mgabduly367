@@ -12,6 +12,7 @@ He is skilled in threat detection, risk analysis, and building resilient IT envi
 
 He is now seeking remote opportunities in IT and cybersecurity, where he can apply his skills, collaborate with diverse teams, and continue growing as a professional.
 
+
 **Core Competencies**
 
 a. Cyber defense and incident response
@@ -25,6 +26,9 @@ d. Windows and Linux system administration
 e. Security tools proficiency: Wireshark, Nmap, and firewalls
 
 f. Team collaboration, communication, and adaptability
+
+g. Graphic design and UI/UX
+
 
 **Professional Experience**
 
@@ -41,10 +45,12 @@ d. Provides training and awareness programs to enhance cybersecurity culture acr
 
 e. Works alongside IT divisions to optimize performance and improve network resilience.
 
+
 **Education**
 
 Bachelor of Science in Computer Science
 Nigerian Defence Academy, 2024
+
 
 **Certifications**
 
