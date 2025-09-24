@@ -64,4 +64,9 @@ c. Cisco Networking Academy – Networking
 
 Outside of work, Muhammed enjoys watching documentaries, which fuel his curiosity and broaden his knowledge of technology, history, and culture. He is also passionate about swimming, a hobby that helps him maintain balance, discipline, and focus.
 
-Outside of work, Muhammed enjoys watching documentaries, which fuel his curiosity and broaden his knowledge of technology, history, and culture. He is also passionate about swimming, a hobby that helps him maintain balance, discipline, and focus.
+**Previous Engagements**
+1. Graphics Design | https://github.com/mgabduly367/Graphics-Design
+
+2. Cyber Security | https://github.com/mgabduly367/Cybersecurity-Labs
+
+3. 
