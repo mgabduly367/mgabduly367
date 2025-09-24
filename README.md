@@ -68,5 +68,3 @@ Outside of work, Muhammed enjoys watching documentaries, which fuel his curiosit
 1. Graphics Design | https://github.com/mgabduly367/Graphics-Design
 
 2. Cyber Security | https://github.com/mgabduly367/Cybersecurity-Labs
-
-3. 
